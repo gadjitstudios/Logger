@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/gadjit/.dotnet/store/|arch|/|tfm|",
+      "/home/gadjit/.nuget/packages"
+    ]
+  }
+}

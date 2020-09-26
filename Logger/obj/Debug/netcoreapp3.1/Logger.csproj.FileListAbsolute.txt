@@ -1,0 +1,17 @@
+C:/dev/Ryan/Logger/Logger/bin/Debug/netcoreapp3.1/Logger.deps.json
+C:/dev/Ryan/Logger/Logger/bin/Debug/netcoreapp3.1/Logger.dll
+C:/dev/Ryan/Logger/Logger/bin/Debug/netcoreapp3.1/Logger.pdb
+C:/dev/Ryan/Logger/Logger/obj/Debug/netcoreapp3.1/Logger.AssemblyInfoInputs.cache
+C:/dev/Ryan/Logger/Logger/obj/Debug/netcoreapp3.1/Logger.AssemblyInfo.cs
+C:/dev/Ryan/Logger/Logger/obj/Debug/netcoreapp3.1/Logger.csproj.CoreCompileInputs.cache
+C:/dev/Ryan/Logger/Logger/obj/Debug/netcoreapp3.1/Logger.dll
+C:/dev/Ryan/Logger/Logger/obj/Debug/netcoreapp3.1/Logger.pdb
+C:/dev/Ryan/Logger/Logger/obj/Debug/netcoreapp3.1/Logger.csprojAssemblyReference.cache
+/home/gadjit/Repos/Logger/Logger/bin/Debug/netcoreapp3.1/Logger.deps.json
+/home/gadjit/Repos/Logger/Logger/bin/Debug/netcoreapp3.1/Logger.dll
+/home/gadjit/Repos/Logger/Logger/bin/Debug/netcoreapp3.1/Logger.pdb
+/home/gadjit/Repos/Logger/Logger/obj/Debug/netcoreapp3.1/Logger.csprojAssemblyReference.cache
+/home/gadjit/Repos/Logger/Logger/obj/Debug/netcoreapp3.1/Logger.AssemblyInfoInputs.cache
+/home/gadjit/Repos/Logger/Logger/obj/Debug/netcoreapp3.1/Logger.AssemblyInfo.cs
+/home/gadjit/Repos/Logger/Logger/obj/Debug/netcoreapp3.1/Logger.dll
+/home/gadjit/Repos/Logger/Logger/obj/Debug/netcoreapp3.1/Logger.pdb

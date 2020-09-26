@@ -1,0 +1,34 @@
+Writting a single line
+This
+is
+a
+list
+of
+strings
+Writting to log for the 0 time
+Writting to log for the 1 time
+Writting to log for the 2 time
+Writting to log for the 3 time
+Writting to log for the 4 time
+Writting to log for the 5 time
+Writting to log for the 6 time
+Writting to log for the 7 time
+Writting to log for the 8 time
+Writting to log for the 9 time
+Writting to log for the 10 time
+Writting to log for the 11 time
+Writting to log for the 12 time
+Writting to log for the 13 time
+Writting to log for the 14 time
+Writting to log for the 15 time
+Writting to log for the 16 time
+Writting to log for the 17 time
+Writting to log for the 18 time
+Writting to log for the 19 time
+Writting a single line
+This
+is
+a
+list
+of
+strings
