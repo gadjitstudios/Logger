@@ -10,7 +10,7 @@ namespace Logger.Generics
     public class TFileLog
     {
         private ReaderWriterLockSlim fileLock = new ReaderWriterLockSlim();
-        protected virtual string filePath { get => @"C:\Users\Public\Logger\Log.txt"; }
+        protected virtual string filePath { get => @"C:\Users\Public\Logger\Log.txt"; } // Set a default path if you don't want to override this
         public virtual string LogLocation => filePath;
 
         private void checkPath()
