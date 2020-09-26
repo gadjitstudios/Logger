@@ -25,7 +25,7 @@ namespace Logger
             return _LogLevel.Write(msg);
         }
 
-        public static string getLogLocation()
+        public static string GetLogLocation()
         {
             return _LogLevel.LogLocation;
         }
